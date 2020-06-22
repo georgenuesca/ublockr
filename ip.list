@@ -4,5 +4,5 @@ http://www.malwaredomainlist.com/hostslist/hosts.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
-#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+https://raw.githubusercontent.com/georgenuesca/ublockr/master/custom.hosts
