@@ -1,0 +1,19 @@
+#Microsoft Whitelisting
+login.live.com
+#Kodi Whitelisting
+msftncsi.com
+#Spotify Whitelisting
+spclient.wg.spotify.com
+#Google Server Whitelisting
+storage.googleapis.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+##confirmed espn3
+livepassdl.conviva.com
+##kissanime
+redirector.googlevideo.com
+upp.itunes.apple.com
+itunes.apple.com
+www.paypal.com
