@@ -3,7 +3,9 @@
 # Licensed under GPL 3.0, Made by Toast, Jacob Salmela (Pi-Hole)
 # Script made for router supporting Entware
 
-cfg=./ublockr.cfg        # edit this if you want your cfg in a different directory
+path=`dirname $0` >&2;
+
+cfg=$path/ublockr.cfg        # edit this if you want your cfg in a different directory
 if [ -f $cfg ]; then logger "Reading ublockr config...." >&2
 else logger no configuration found exiting... ; exit 0 ;fi
 . $cfg
@@ -44,7 +46,7 @@ fi
 }
 
 customlist () {
-cat ./custom.list >>$path/ipv4_hosts
+cat $path/custom.list >>$path/ipv4_hosts
 }
 
 whitelist () {
