@@ -12,12 +12,15 @@ case $(grep -oE 'merlin|padavan|OpenWrt' /proc/version) in
   merlin)    path=$asuswrt_path>&2; configuration=$asuswrt_dnsmasq >&2; iface=$nic ;;
   padavan)   path=$padavan_path >&2; configuration=$padavan_dnsmasq >&2; iface=$nic ;;
   OpenWrt)   path=$openwrt_path >&2; iface=$nic ;;
-  *)         path=$other_path >&2; configuration=$other_dnsmasq >&2; iface=$nic ;;
+  *)         
+     path=`dirname $0` >&2;
+     iface=$nic ;;
 esac
 
 # SET VARIABLES
-pix_v4='192.168.0.1'
-pix_v6='192.168.0.1'
+pix_v4=`ip r |awk '/default/{print $3}'`
+#pix_v6='192.168.0.1'
+echo $path $pix_v4
 regexp_ip=`echo "\b([0-9]{1,3}\.){3}[0-9]{1,3}\s+(([a-zA-Z0-9]+)(\-|\|_|\.)){1,8}[a-zA-Z]{2,4}((\.)[a-zA-Z]{2,4}){0,1}\b"`
 regexp_no=`echo "\b(([a-zA-Z0-9]+)(\-|\|_|\.)){1,8}[a-zA-Z]{2,4}((\.)[a-zA-Z]{2,4}){0,1}\b"`
 # END VARIABLES
