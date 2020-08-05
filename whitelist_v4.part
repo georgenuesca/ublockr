@@ -1,19 +1,19 @@
-10.0.0.1    #Microsoft Whitelisting
-10.0.0.1    login.live.com
-10.0.0.1    #Kodi Whitelisting
-10.0.0.1    msftncsi.com
-10.0.0.1    #Spotify Whitelisting
-10.0.0.1    spclient.wg.spotify.com
-10.0.0.1    #Google Server Whitelisting
-10.0.0.1    storage.googleapis.com
-10.0.0.1    clients2.google.com
-10.0.0.1    clients3.google.com
-10.0.0.1    clients4.google.com
-10.0.0.1    clients5.google.com
-10.0.0.1    ##confirmed espn3
-10.0.0.1    livepassdl.conviva.com
-10.0.0.1    ##kissanime
-10.0.0.1    redirector.googlevideo.com
-10.0.0.1    upp.itunes.apple.com
-10.0.0.1    itunes.apple.com
-10.0.0.1    www.paypal.com
+192.168.0.1    #Microsoft Whitelisting
+192.168.0.1    login.live.com
+192.168.0.1    #Kodi Whitelisting
+192.168.0.1    msftncsi.com
+192.168.0.1    #Spotify Whitelisting
+192.168.0.1    spclient.wg.spotify.com
+192.168.0.1    #Google Server Whitelisting
+192.168.0.1    storage.googleapis.com
+192.168.0.1    clients2.google.com
+192.168.0.1    clients3.google.com
+192.168.0.1    clients4.google.com
+192.168.0.1    clients5.google.com
+192.168.0.1    ##confirmed espn3
+192.168.0.1    livepassdl.conviva.com
+192.168.0.1    ##kissanime
+192.168.0.1    redirector.googlevideo.com
+192.168.0.1    upp.itunes.apple.com
+192.168.0.1    itunes.apple.com
+192.168.0.1    www.paypal.com
