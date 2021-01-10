@@ -1,2 +1,4 @@
 0.0.0.0 onstunkyr.com
 0.0.0.0 roujaufu.net
+0.0.0.0 gogo-play.net
+0.0.0.0 prd.jwpltx.com
