@@ -2,3 +2,6 @@
 0.0.0.0 roujaufu.net
 0.0.0.0 gogo-play.net
 0.0.0.0 prd.jwpltx.com
+0.0.0.0 in-page-push.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 a.vdo.ai
