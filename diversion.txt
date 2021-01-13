@@ -1,0 +1,12 @@
+custom dns 
+
+/tmp/mnt/entware/entware/share/diversion/file/update-bl.div
+/tmp/mnt/entware/entware/share/diversion/list/blockinglist
+
+
+update-bl.div
+
+#### add custom domains for internal use
+echo "192.168.0.57 oh oh.bahay.org zm zm.bahay.org" >> ${blockinglist}
+
+
