@@ -18,7 +18,7 @@
 0.0.0.0 ibis.lgappstv.com
 # from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
 0.0.0.0 us.ad.lgsmartad.com
-0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 lgad.cjpowercast.com
 0.0.0.0 ngfts.lge.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 smartclip.net
