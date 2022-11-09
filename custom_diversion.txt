@@ -16,6 +16,12 @@
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 ibis.lgappstv.com
+
+0.0.0 jp.rdx2.lgtvsdp.com
+0.0.0 jp.lgtvsdp.com
+0.0.0 jp.info.lgsmartad.com
+0.0.0 aic-ngfts.lge.com
+
 # from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 lgad.cjpowercast.com
