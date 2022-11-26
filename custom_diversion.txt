@@ -20,15 +20,15 @@
 127.0.0.1 ad.lgappstv.com
 
 #https://gist.github.com/wassname/78eeaaad299dc4cddd04e372f20a9aa7
-#127.0.0.1 us.rdx2.lgtvsdp.com
-#127.0.0.1 us.info.lgsmartad.com
+127.0.0.1 us.rdx2.lgtvsdp.com
+127.0.0.1 us.info.lgsmartad.com
 #127.0.0.1 us.ibs.lgappstv.com
 #127.0.0.1 us.lgtvsdp.com
-#127.0.0.1 ad.lgappstv.com
+127.0.0.1 ad.lgappstv.com
 #127.0.0.1 smartshare.lgtvsdp.com
 #127.0.0.1 ibis.lgappstv.com
-#0.0.0.0 aic-ngfts.lge.com
+0.0.0.0 aic-ngfts.lge.com
 #0.0.0.0 yumenetworks.com
 #0.0.0.0 smartclip.net
-#0.0.0.0 smartclip.com
+#30.0.0.0 smartclip.com
 #0.0.0.0 us.lgrecommends.lgappstv.com
