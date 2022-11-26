@@ -24,5 +24,4 @@
 127.0.0.1 US.info.lgsmartad.com
 127.0.0.1 aic-ngfts.lge.com
 127.0.0.1 ngfts.lge.com
-127.0.0.1 us.tvsdp.lgeapi.com
 127.0.0.1 us.lgrecommends.lgappstv.com
