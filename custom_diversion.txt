@@ -29,6 +29,7 @@
 127.0.0.1 ad.lgappstv.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 pixel.adsafeprotected.com
 
 #0.0.0.0 us.lgrecommends.lgappstv.com
 #127.0.0.1 us.ibs.lgappstv.com
