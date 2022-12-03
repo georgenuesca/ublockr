@@ -14,6 +14,7 @@
 0.0.0.0 lgad.cjpowercast.com
 0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 lg-beacons.xumo.com
 #0.0.0.0 yumenetworks.com
 #0.0.0.0 smartclip.net
 #0.0.0.0 smartclip.com
