@@ -13,6 +13,7 @@
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 lgad.cjpowercast.com
 0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
 #0.0.0.0 yumenetworks.com
 #0.0.0.0 smartclip.net
 #0.0.0.0 smartclip.com
@@ -20,7 +21,6 @@
 #0.0.0.0 ngfts.lge.com
 
 #0.0.0.0 us.rdx2.lgtvsdp.com
-#0.0.0.0 us.ibs.lgappstv.com
 #0.0.0.0 us.lgtvsdp.com
 #0.0.0.0 ad.lgappstv.com
 #0.0.0.0 smartshare.lgtvsdp.com
